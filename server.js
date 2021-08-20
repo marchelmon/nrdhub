@@ -8,7 +8,7 @@ app.use(express.json({ extended: false }))
  connectDB()
 
  app.get('/', (req, res) => {
-   console.log("ss")
+   console.log("s")
    res.send('KÖÖRRRR!!!!')
  })
 
