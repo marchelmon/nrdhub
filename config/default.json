@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://marchelmon:fotboll12@cluster0.zqnen.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://marchelmon:fotboll12@cluster0.zqnen.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwt-secret": "my-secret-token"
 }
